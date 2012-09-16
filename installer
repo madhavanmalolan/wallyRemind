@@ -1,0 +1,4 @@
+#! /bin/bash
+mkdir ~/.alerts/
+cp -r ./* ~/.alerts/
+cp *.desktop /usr/share/applications/

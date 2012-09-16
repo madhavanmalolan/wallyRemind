@@ -1,0 +1,22 @@
+Simple to install!!!
+Just copy the contents of the current directory to ~/.alerts
+add wallpaper_generator to auto-start programs
+edit the tasks/tasks file to set one task on one line
+run python code as : python wallpaper_generator.py
+
+Requirements:
+GNOME - 3
+Python - 3
+Image Magik
+
+
+Improvements to come:
+  1) UI to add new tasks
+  2) easy installer
+PS: You are free to contribute to this project.
+
+
+Made By:
+Madhavan Malolan
+contact : madhavan.chetlur@students.iiit.ac.in
+International institute of IT , Hyderabad.

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/madhavan/.alerts/wallpaper_generator.py
+Hidden=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Madhavan's Wallpaper setter.
+Name=wallpaper reminder
+Comment[en_US]=
+Comment=
